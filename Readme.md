@@ -1,1 +1,1 @@
-# 나의 코테공부 아카이브
+# SWEA solution archive
